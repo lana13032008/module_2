@@ -1,0 +1,29 @@
+p {
+    color: blue;
+}
+
+
+.highlite {
+    font-weight: bold;
+}
+
+
+#main-title {
+    color: red;
+}
+
+p {
+    font-size: 16px;
+    color: blue; 
+}
+
+
+.highlight {
+    font-size: 18px;
+    color: green;
+}
+
+#special-paragraph {
+    font-size: 20px;
+    color: orange;
+}
