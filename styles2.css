@@ -1,0 +1,71 @@
+h1, h2 {
+    color: blueviolet; 
+}
+
+.bigParagraph {
+    font-size: 20px;
+}
+
+.smallParagraph {
+    font-size: 14px;
+}
+
+
+.centeredTitle {
+    text-align: center;
+}
+
+.boldParagraph {
+    font-weight: bold;
+}
+
+body {
+    background-image: url('Unknown.jpeg');
+ }
+ 
+ .container {
+    padding: 20px;
+    border: 5px solid black;
+    background-color: green;
+    background-image: url('Unknown-1.jpeg');
+ }
+ .title {
+    font-size: 24px;
+    text-align: center;
+ }
+ .highlight {
+    color: red;
+    font-weight: bold;
+ }
+
+ .block {
+    padding: 20px; 
+    margin: 15px;  
+    border: 2px solid black;
+ }
+
+ .box {
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+    background-color: darkblue;
+    font-size: 16px;
+}
+
+.box1 {
+    width: 150px;
+    height: 80px;
+    overflow: visible;
+}
+
+.box2 {
+    width: 250px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.box3 {
+    width: 350px;
+    height: 120px;
+    overflow: scroll;
+}
